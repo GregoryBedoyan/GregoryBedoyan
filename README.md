@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GregoryBedoyan
-- 👀 I’m interested in Front-end development.
+- 👋 Hi, I’m @Gregory
+- 👀 I’m interested in anything tech-related, and cyber security 
 - 🌱 I’m currently learning The Odin Project 
 - 💞️ I’m looking to collaborate on anyting web development
 - 📫 How to reach me ...
