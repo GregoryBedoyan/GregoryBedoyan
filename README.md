@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gregory
 - 👀 I’m interested in anything tech-related, and cyber security 
-- 🌱 I’m currently learning The Odin Project 
+- 🌱 I’m always learning something new!
 - 💞️ I’m looking to collaborate on anyting web development
-- 📫 How to reach me ...
+- 📫 Just reach out!...
 
 <!---
 GregoryBedoyan/GregoryBedoyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
